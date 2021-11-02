@@ -3,5 +3,5 @@ navbar:
   title: "Madie Hassett"
 left:
   - text: "Home"
-href: website.html
+href: index.html
 
