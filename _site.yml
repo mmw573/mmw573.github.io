@@ -1,7 +1,0 @@
-name: "Madie Hassett Personal Website"
-navbar:
-  title: "Madie Hassett"
-left:
-  - text: "Home"
-href: website.html
-
